@@ -1,0 +1,71 @@
+.sekcja-glowna {
+    width: 100vw;
+    height: 15vh;
+    background-color: #365914;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nawigacja-boczna{
+    height: 70vh;
+    width: 20vw;
+    background-color: #DBF227;
+    float: left;
+
+}
+.glowna-zawartosc{
+    height: 70vh;
+    width: 60vw;
+    background-color: green;
+    float: left;
+
+}
+.odnosniki{
+    height: 70vh;
+    width: 20vw;
+    background-color:  #DBF227;
+    float: left;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.stopka{
+    clear: both;
+    width: 100vw;
+    height: 15vh;
+    background-color:  #365914;
+}
+.glowna-lewy{
+    
+}
+.glowna-prawy{
+    background-color: green;
+}
+.glowna-lewy, .glowna-prawy{
+    width: 50%;
+    height: 15vh;
+    float: left;
+}
+.logo{
+    width: 15vh;
+    height: 15vh;
+    
+    text-align: center;
+
+}
+.logo i{
+    color: white;
+    font-size: 100px;
+    line-height: 15vh;
+    
+    
+}
+.nawigacja {
+    list-style-type: none;
+    color: white;
+    display: inline-bl;
+}
+
